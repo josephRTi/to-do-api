@@ -61,7 +61,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    '*',
+    'https://*',
 ]
 
 ROOT_URLCONF = 'todo_list.urls'

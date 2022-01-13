@@ -61,7 +61,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:8080',
+    '*',
 ]
 
 ROOT_URLCONF = 'todo_list.urls'

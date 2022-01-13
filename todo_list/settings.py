@@ -61,7 +61,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'https://*',
+    'https://to-do-webapplication.herokuapp.com/',
 ]
 
 ROOT_URLCONF = 'todo_list.urls'

@@ -65,6 +65,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://127.0.0.1',
     'http://localhost',
     '*',
+    'http://192.168.0.100:8080'
 ]
 
 ROOT_URLCONF = 'todo_list.urls'
